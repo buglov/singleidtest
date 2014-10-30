@@ -9,11 +9,11 @@ Install the app and fill in your details one last time. SingleID will take care 
 3. jQuery >= 1.6.1
 
 ## Pre-Requirements for fields in the forms
-1. Input type - Select
+1. Input type - Select<br />
     For every select dropdown you must set ID for the select with the name of the field in the app (full list of fields you can find in the end of the document)
-2. Input type - Radio
+2. Input type - Radio<br />
     Radio buttons must have attribute class and name with the name of the field in the app. 
-3. Input type - Text
+3. Input type - Text<br />
     For every input text ot textarea you must set ID with the name of the field in the app
 
 ## How to install
