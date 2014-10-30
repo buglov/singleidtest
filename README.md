@@ -34,3 +34,6 @@ requested_data has a values of:<br />
 ## Set the SingleID plugin
 Just one step left. Put these code in every form where you want to use the plugin: <br />
 <code><iframe src="plugin.php?op=init" width="200" height="80" frameborder="0"></iframe></code>
+
+## Fields description
+ONE TABLE WITH ALL THE FIELDS DIVEDED BY GROUPS of requested_data
